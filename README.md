@@ -49,8 +49,8 @@ Port was Succesfully compiled and run,          /I\ - the voltage text was overw
 
 //added ability to display voltage approximated on screen.   by calculation using ratios and proportions.
 
-          ! - for 5 volts as maximum value giving 1023 as sensor reading. and 0v = 0 sensor read.
---> 5  =  1023
+//          ! - for 5 volts as maximum value giving 1023 as sensor reading. and 0v = 0 sensor read.
+//--> 5  =  1023
    ---   -----  , X is the RT sensor read. and V is the corresponding voltage.
     V      X   
 
@@ -97,7 +97,7 @@ sOLUTION, THERE wAS a Stray 'return;' in the "CheckSW()" FUNCTION. rEMOVED iT.
 
 
 -------------------------------------------------------------------------------------------------------------------------------------
-6/04/2017   2140
+//6/04/2017  	 2140
 Ported the new switch arrray    || refer notes --> ARR2
 corrected the value display
 
