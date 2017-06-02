@@ -66,7 +66,7 @@ Port was Succesfully compiled and run
 
 //at line 88
 
-     -->  increased rate of sampling from '3' to '6'            --| it seemingly increases buffer hold time and thus allows to see live variation 											in frequency unlike earlier at '3'
+ //    -->  increased rate of sampling from '3' to '6'            --| it seemingly increases buffer hold time and thus allows to see live variation 											in frequency unlike earlier at '3'
 
 ---------------------------------------------------------------------------------------------------------------------------------
 //26/11/2016     2110
