@@ -1,4 +1,5 @@
-First and foremost (>beyi saarvi khuate guadniyath) I welcome, all the good-hearted, open-soucerers, and bright minded people to Osciduino-Project. Thank you for your time and dedication towards Osciduino Project!.
+# Contributing Guidelines
+First and foremost (beyi saarvi khuate guadniyath) I welcome, all the good-hearted, open-soucerers, and bright minded people to Osciduino-Project. Thank you for your time and dedication towards Osciduino Project!.
 
 Ahem! Well the greetings done so, let me put it simple for you guys;
 
@@ -47,8 +48,14 @@ If the change in code is something big, I suggest you create a fork of this proj
 
 If you want to add some piece of code or improve upon it, Create a pull request
 
+### If your's is a harware addition! 
+> good job
+Create an issue and tag me using @wayri so that I can link to your project
+
 
 
 
 I will update this doc as time goes, so keep an eye out for it :). 
+
 Happy Sourcering!
+Yawar Badri (wayri)
