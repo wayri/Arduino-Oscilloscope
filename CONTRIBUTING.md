@@ -1,5 +1,4 @@
-First and foremost (>beyi saarvi khuate guadniyath) I welcome, all the ## good-hearted, # open-soucerers, and ### bright minded people
-to $Osciduino-Project. Thank you for your time and dedication towards Osciduino Project!.
+First and foremost (>beyi saarvi khuate guadniyath) I welcome, all the good-hearted, open-soucerers, and bright minded people to Osciduino-Project. Thank you for your time and dedication towards Osciduino Project!.
 
 Ahem! Well the greetings done so, let me put it simple for you guys;
 
