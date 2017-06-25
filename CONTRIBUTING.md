@@ -50,12 +50,15 @@ If you want to add some piece of code or improve upon it, Create a pull request
 
 ### If your's is a harware addition! 
 > good job
+
+I recommend you create a fork of this project and then alter it's charachteristics. If it is too radical for modifying the
+code. It is better to create a seperate repository.
 Create an issue and tag me using @wayri so that I can link to your project
 
 
 
 
-I will update this doc as time goes, so keep an eye out for it :). 
+> I will update this doc as time goes, so keep an eye out for it :). 
 
-Happy Sourcering!
-Yawar Badri (wayri)
+#### Happy Sourcering!
+#### Yawar Badri (wayri)
