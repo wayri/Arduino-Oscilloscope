@@ -116,7 +116,7 @@ void setup(){
   tft.fillScreen(BGCOLOR);
    
   Serial.begin(9600);
-  //DrawGrid();
+  DrawGrid();
   DrawText();
   //aux. ground pin | dig 22 --> 29/07,  1739
 
@@ -640,7 +640,7 @@ digitalWrite(21,HIGH);
     }
     ClearAndDrawGraph();
     CheckSW();
-    //DrawGrid();
+    DrawGrid();
     DrawText();
   } else if (Start) { // 5ms - 500ms sampling
   // copy currently showing data to another
@@ -683,7 +683,7 @@ digitalWrite(21,HIGH);
       ClearAndDrawDot(i);     
     }
     // Serial.println(millis()-st0);
-    //DrawGrid();
+    DrawGrid();
     DrawText();
     
   } else {
