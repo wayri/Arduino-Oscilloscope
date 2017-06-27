@@ -13,6 +13,11 @@ Also the schematics for the setup are included in the "arduino files" folder
 
 
 
+### Further Links and references
+
+- [Osciduino-Beta](https://github.com/wayri/osciduino-beta)
+
+
 
 
 
