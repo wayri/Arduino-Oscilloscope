@@ -16,6 +16,10 @@ The inputs are taken from 2 analog input pins on arduino. the pins however suppo
 An additional display library is included in the master for SPFD5408, if required.
 Also the schematics for the setup are included in the "arduino files" folder
 
+> Currently the code works best with the provided library and thus a specific display driver SPDF5408.
+This however does not mean that it will not work with other drivers. It's just that behaviour might be different
+as I have not tested it with any other display. You are welcome to add support for your display driver.
+
 
 ## Installation - Quick start
 
