@@ -19,7 +19,8 @@ Also the schematics for the setup are included in the "arduino files" folder
 > Currently the code works best with the provided library and thus a specific display driver SPDF5408.
 This however does not mean that it will not work with other drivers. It's just that behaviour might be different
 as I have not tested it with any other display. You are welcome to add support for your display driver.
-
+if you want to add support to your display. You can either contribute or create a pull-request. An example is adding
+support for [Adafruit 2.5 inch Resistive touch screen display](https://github.com/wayri/Osciduino/issues/1)
 
 ## Installation - Quick start
 
