@@ -21,7 +21,7 @@ Also the schematics for the setup are included in the "arduino files" folder
 
 This is really simple to do just follow the following steps and you are up-and-running. 
 
-First and foremost plug in the *Display to Arduino*. For this see [How to get assemble the hardware](https://wayri.github.io/Osciduino/wiki)
+First and foremost plug in the *Display to Arduino*. For this see [How to assemble the hardware](https://wayri.github.io/Osciduino/wiki)
 
 - Plug in your arduino (uno or mega) to the computer using the usb-2.0
 - Open the **Osciduino-3.ino** in arduino IDE
