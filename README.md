@@ -44,14 +44,17 @@ observing charging and Discharging of a capacitor
 ##### Setup
 Power up the Osciduino, as mentioned above in the Quick start. 
 Now on a breadboard connect an electrolytic capacitor in series with a resistor to a square wave generator. 
-Place the probe on the resistor capacitor node. And you should start seeing the charachteristic rise and fall slopes
+Place the probe on the resistor capacitor node. Add a common reference ground between Osciduino and the RC circuit
+
+
+And you should start seeing the charachteristic rise and fall slopes
 associated with charging and discharging of the capacitor.
 
 See [Examples - Simple RC circuit](https://github.com/wayri/Osciduino/wiki/examples) for more details
 
 ### Current problems
 
-The setupr requires an external resistive control interface. Which requires callibration on every boot. As resistance changes easily with temperature and long durations of running.
+The setup requires an external resistive control interface. Which requires callibration on every boot. As resistance changes easily with temperature and long durations of running.
 
 ### Further Links and references
 
