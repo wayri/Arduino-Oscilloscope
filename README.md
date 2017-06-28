@@ -35,7 +35,19 @@ First and foremost plug in the *Display to Arduino*. For this see [How to assemb
 - You are up and running
 
 
+### Hello World
 
+The following is a "hello world" example for the Osciduino
+
+observing charging and Discharging of a capacitor 
+
+##### Setup
+Power up the Osciduino, as mentioned above in the Quick start. 
+Now on a breadboard connect an electrolytic capacitor in series with a resistor to a square wave generator. 
+Place the probe on the resistor capacitor node. And you should start seeing the charachteristic rise and fall slopes
+associated with charging and discharging of the capacitor.
+
+See [Examples - Simple RC circuit](https://github.com/wayri/Osciduino/wiki/examples) for more details
 
 ### Current problems
 
@@ -44,7 +56,8 @@ The setupr requires an external resistive control interface. Which requires call
 ### Further Links and references
 
 - [Osciduino-Beta](https://github.com/wayri/osciduino-beta)
-
+- [Osciduino quick setup]
+- [Osciduino wiki](https://github.com/wayri/Osciduino/wiki)
 
 
 
