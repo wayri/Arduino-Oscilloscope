@@ -351,6 +351,7 @@ void menu2_sw(int sw) {
   }
 }
 
+//DEBUGGING AND SENDING DATA TO SERIAL PORT
 void SendData() {
   Serial.print(Rates[rate]);
   Serial.println("/div (30 samples)");
