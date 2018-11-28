@@ -1,4 +1,4 @@
-# Osciduino
+# Arduino Oscilloscope
 
 Arduino based Oscilloscope with advanced features and two channels. It is a DIY **Oscilloscope** based on popular Arduino platform.
 
@@ -60,7 +60,6 @@ configuration by a touch based scheme or a push button scheme encoded into the f
 
 ### Further Links and references
 
-- [Osciduino-Beta](https://github.com/wayri/osciduino-beta)
 - [Osciduino quick setup]
 - [Osciduino wiki](https://github.com/wayri/Osciduino/wiki)
 
