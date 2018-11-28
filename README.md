@@ -1,4 +1,4 @@
-# Osciduino
+# Arduino Oscilloscope
 
 Arduino based Oscilloscope with advanced features and two channels. It is a DIY **Oscilloscope** based on popular Arduino platform.
 
