@@ -10,7 +10,7 @@ it is an educational project to get the insight into the internal workings of a 
 this version includes advanced functionality to the setup, by including features like dual channel, offset, trigger, time/div, volts/div, and like wise.
 
 ### Inputs and few things to consider
-The inputs are taken from 2 analog input pins on arduino. the pins however support only upto +5 volts. so ths oscilloscope works well only if the signal being viewed is +5 volts peak to peak maximum and doesn't have any negative halfs. to view negative halfs, the oscilloscope has to be operated in a +2.5 volts peak mode. this is accomplished externally by scaling the voltage and then offsetting it by +2.5 volts.   
+The inputs are taken from 2 analog input pins on arduino. the pins however support only voltage range of 0 to +5 volts. so ths oscilloscope works well only if the signal being viewed is +5 volts peak to peak maximum and doesn't have any negative halfs. to view negative halfs, the oscilloscope has to be operated in a +2.5 volts peak mode. this is accomplished externally by scaling the voltage and then offsetting it by +2.5 volts.   
 
 ### What should I know
 An additional display library is included in the master for SPFD5408, if required.
@@ -34,6 +34,7 @@ First and foremost plug in the *Display to Arduino*. For this see [How to assemb
 - Click upload
 - You are up and running
 
+/!\ Make sure that 'CH1' and or 'CH2' is set to 'ON'
 
 ### Hello World
 
@@ -54,7 +55,8 @@ See [Examples - Simple RC circuit](https://github.com/wayri/Osciduino/wiki/examp
 
 ### Current problems
 
-The setup requires an external resistive control interface. Which requires callibration on every boot. As resistance changes easily with temperature and long durations of running.
+The setup requires an external resistive control interface. Which requires callibration on every boot. As resistance changes easily with temperature and long durations of running. This can be mitigated in a lot of ways, for example by replacing the resistive divider switch
+configuration by a touch based scheme or a push button scheme encoded into the free GPIO pins on the arduino mega.
 
 ### Further Links and references
 
