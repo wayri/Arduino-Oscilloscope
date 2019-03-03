@@ -3,7 +3,7 @@
 Arduino based Oscilloscope with advanced features and two channels. It is a DIY **Oscilloscope** based on popular Arduino platform.
 
 
-Osciduino is an arduino based oscilloscope (tried and tested on arduino uno r3 and mega 2560). Though I would recommend using mega if you can.
+Arduino-Oscilloscope(here-after reffered to as Osciduino| *There is another project with the same name that is why the title name is changed here, after I saw the another project with the same name ie OsciDuino*) is an arduino based oscilloscope (tried and tested on arduino uno r3 and mega 2560). Though I would recommend using mega if you can.
 
 ### Why and what can it do
 it is an educational project to get the insight into the internal workings of a buffered digital oscilloscope (DSO). 
@@ -60,8 +60,11 @@ configuration by a touch based scheme or a push button scheme encoded into the f
 
 ### Further Links and references
 
+The code is originally based on the one by Prof. Noriaki Mitsunaga http://n.mtng.org/ele/index.html
+
+
 - [Osciduino quick setup]
-- [Osciduino wiki](https://github.com/wayri/Osciduino/wiki)
+- [Osciduino wiki](https://github.com/wayri/Arduino-Oscilloscope/wiki)
 
 
 
