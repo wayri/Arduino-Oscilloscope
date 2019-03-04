@@ -60,7 +60,7 @@ configuration by a touch based scheme or a push button scheme encoded into the f
 
 ### Further Links and references
 
-The code is originally based on the one by Prof. Noriaki Mitsunaga http://n.mtng.org/ele/index.html
+The code is originally based on the one by Mr. Noriaki Mitsunaga http://n.mtng.org/ele/index.html
 
 
 - [Osciduino quick setup]
