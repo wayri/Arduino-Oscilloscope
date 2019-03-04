@@ -1,6 +1,6 @@
 # Arduino Oscilloscope
 
-[![arduino_oscillo](https://raw.githubusercontent.com/wayri/Arduino-Oscilloscope/master/Working_Pictures/working_ungrounded.jpg)]
+![arduino_oscillo](https://raw.githubusercontent.com/wayri/Arduino-Oscilloscope/master/Working_Pictures/working_ungrounded.jpg)
 
 Arduino based Oscilloscope with advanced features and two channels. It is a DIY **Oscilloscope** based on popular Arduino platform.
 
