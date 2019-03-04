@@ -52,6 +52,7 @@ And you should start seeing the charachteristic rise and fall slopes
 associated with charging and discharging of the capacitor.
 
 See [Examples - Simple RC circuit](https://github.com/wayri/Osciduino/wiki/examples) for more details
+    [In Use - ADXL335](https://github.com/wayri/Arduino-Oscilloscope/wiki/General-Outline#use) for more details
 
 ### Current problems
 
