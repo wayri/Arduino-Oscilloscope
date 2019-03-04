@@ -51,8 +51,11 @@ Place the probe on the resistor capacitor node. Add a common reference ground be
 And you should start seeing the charachteristic rise and fall slopes
 associated with charging and discharging of the capacitor.
 
-See [Examples - Simple RC circuit](https://github.com/wayri/Osciduino/wiki/examples) for more details
-    [In Use - ADXL335](https://github.com/wayri/Arduino-Oscilloscope/wiki/General-Outline#use) for more details
+See
+- [Examples - Simple RC circuit](https://github.com/wayri/Osciduino/wiki/examples) for more details
+- [In Use - ADXL335](https://github.com/wayri/Arduino-Oscilloscope/wiki/General-Outline#use) for more details
+   
+   [![ADXL335 with Mega video](https://i.ytimg.com/vi/DczcwX6qwa0/hqdefault.jpg)](https://www.youtube.com/embed/DczcwX6qwa0)
 
 ### Current problems
 
