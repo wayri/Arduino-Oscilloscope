@@ -1,7 +1,7 @@
 /*
  * Arduino Oscilloscope using a graphic LCD
  * The max sampling rates are 4.3ksps with 2 channels and 8.6ksps with a channel.
- * Copyright (c) 2015-2017, Yawar Badri
+ *  2015-2017, Yawar Badri
  */
 #include <SPFD5408_Adafruit_TFTLCD.h>
 
