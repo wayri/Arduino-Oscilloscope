@@ -31,7 +31,7 @@ This is really simple to do just follow the following steps and you are up-and-r
 First and foremost plug in the *Display to Arduino*. For this see [How to assemble the hardware](https://wayri.github.io/Osciduino/wiki)
 
 - Plug in your arduino (uno or mega) to the computer using the usb-2.0
-- Open the **Osciduino-3.ino** in arduino IDE
+- Open the **arduino-oscilloscope-high-freq_v1_5_HW.ino** in arduino IDE
 - Select your board from "Tools" menu
 - Click upload
 - You are up and running
