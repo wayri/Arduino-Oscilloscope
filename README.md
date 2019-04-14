@@ -64,6 +64,8 @@ See
 The setup requires an external resistive control interface. Which requires callibration on every boot. As resistance changes easily with temperature and long durations of running. This can be mitigated in a lot of ways, for example by replacing the resistive divider switch
 configuration by a touch based scheme or a push button scheme encoded into the free GPIO pins on the arduino mega.
 
+### Updates and Latest Releases
+Starting version 1.5, the hardware extension support will be addedto the project - [release v1.5.0](https://github.com/wayri/Arduino-Oscilloscope/releases/tag/v1.5.0) 
 ### Further Links and references
 
 The code is originally based on the one by Mr. Noriaki Mitsunaga http://n.mtng.org/ele/index.html
